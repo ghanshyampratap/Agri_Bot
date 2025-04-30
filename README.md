@@ -68,16 +68,4 @@ AgriBot empowers farmers with smart technology to:
 🎥 *Watch AgriBot in action:*  
 [https://youtu.be/Cbc6DDiTvMk](https://youtu.be/Cbc6DDiTvMk)
 
----
 
-## 📅 Project Timeline
-
-**Started**: March 2023  
-**Status**: In Development / Deployed (Update accordingly)
-
----
-
-## 👨‍💻 Developed By
-
-Team AgriTech Innovators 💡  
-Contributors: 𝐌𝐚𝐧𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫, 𝐒𝐮𝐣𝐚𝐲 𝐒𝐡𝐚𝐬𝐭𝐫𝐢, Ghanshyam Pratap Singh , 𝐚𝐧𝐝 𝐁𝐡𝐚𝐧𝐮 𝐏𝐫𝐚𝐭𝐚𝐩 𝐒𝐢𝐧𝐠𝐡
