@@ -64,6 +64,12 @@ AgriBot empowers farmers with smart technology to:
 ---
 
 ## 📸 Demo
+![Screenshot 2025-06-07 030143](https://github.com/user-attachments/assets/e00dcf8d-de7e-4406-b894-1c5b1b2e6985)
+![Screenshot 2025-06-07 030209](https://github.com/user-attachments/assets/ccba7665-6bd9-4d14-b03d-11bdecea86aa)
+![Screenshot 2025-06-07 030227](https://github.com/user-attachments/assets/f410153b-3036-4b15-97c3-059cb35c2cd6)
+![Screenshot 2025-06-07 030255](https://github.com/user-attachments/assets/266ac628-9e68-4ce7-a03d-d9d2e98a5900)
+![Screenshot 2025-06-07 030340](https://github.com/user-attachments/assets/8b2a652e-f702-4c57-9a46-df6e0234f396)
+
 
 🎥 *Watch AgriBot in action:*  
 [https://youtu.be/Cbc6DDiTvMk](https://youtu.be/Cbc6DDiTvMk)
