@@ -1,4 +1,4 @@
-#  AgriBot – Smart Farming Revolution 🚜
+#  AgriBot – Smart Farming Revolution 
 
 AgriBot is an intelligent agriculture robot designed to solve modern farming challenges like inefficient crop monitoring, excessive resource usage, labor-intensive tasks, and lack of organized data.  
 This project brings **IoT, automation, and AI** together to **digitize and revolutionize agriculture**.
